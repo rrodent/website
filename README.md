@@ -13,4 +13,4 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 Get help about Git from [Git help](http://help.github.com) or the
-[official Git documentation](https://git-scm.com/).
+[official Git    documentation](https://git-scm.com/).
